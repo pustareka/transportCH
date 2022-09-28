@@ -1,0 +1,1535 @@
+{
+  "connections": [
+    {
+      "to": {
+        "station": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        },
+        "arrival": "2022-09-12T13:38:00+0200",
+        "arrivalTimestamp": 1662982680,
+        "departure": null,
+        "departureTimestamp": null,
+        "delay": null,
+        "platform": "3",
+        "prognosis": {
+          "platform": null,
+          "departure": null,
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        }
+      },
+      "duration": "00d00:48:00",
+      "service": null,
+      "capacity1st": null,
+      "capacity2nd": null,
+      "sections": [
+        {
+          "journey": {
+            "name": "018423",
+            "category": "RE",
+            "categoryCode": null,
+            "subcategory": null,
+            "number": "018423",
+            "operator": "SBB",
+            "to": "Vevey",
+            "passList": [
+              {
+                "station": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2022-09-12T12:50:00+0200",
+                "departureTimestamp": 1662979800,
+                "delay": 0,
+                "platform": "6",
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T12:50:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501023",
+                  "name": "Coppet",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.317405,
+                    "y": 6.187819
+                  }
+                },
+                "arrival": "2022-09-12T12:59:00+0200",
+                "arrivalTimestamp": 1662980340,
+                "departure": "2022-09-12T13:00:00+0200",
+                "departureTimestamp": 1662980400,
+                "delay": 0,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:00:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501023",
+                  "name": "Coppet",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.317405,
+                    "y": 6.187819
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501030",
+                  "name": "Nyon",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.38443,
+                    "y": 6.235963
+                  }
+                },
+                "arrival": "2022-09-12T13:05:00+0200",
+                "arrivalTimestamp": 1662980700,
+                "departure": "2022-09-12T13:06:00+0200",
+                "departureTimestamp": 1662980760,
+                "delay": 0,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:06:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501030",
+                  "name": "Nyon",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.38443,
+                    "y": 6.235963
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501031",
+                  "name": "Gland",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.419998,
+                    "y": 6.269128
+                  }
+                },
+                "arrival": "2022-09-12T13:09:00+0200",
+                "arrivalTimestamp": 1662980940,
+                "departure": "2022-09-12T13:10:00+0200",
+                "departureTimestamp": 1662981000,
+                "delay": 0,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:10:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501031",
+                  "name": "Gland",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.419998,
+                    "y": 6.269128
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501033",
+                  "name": "Rolle",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.462757,
+                    "y": 6.3364
+                  }
+                },
+                "arrival": "2022-09-12T13:14:00+0200",
+                "arrivalTimestamp": 1662981240,
+                "departure": "2022-09-12T13:15:00+0200",
+                "departureTimestamp": 1662981300,
+                "delay": 0,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:15:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501033",
+                  "name": "Rolle",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.462757,
+                    "y": 6.3364
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501035",
+                  "name": "Allaman",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.475769,
+                    "y": 6.399696
+                  }
+                },
+                "arrival": "2022-09-12T13:18:00+0200",
+                "arrivalTimestamp": 1662981480,
+                "departure": "2022-09-12T13:19:00+0200",
+                "departureTimestamp": 1662981540,
+                "delay": 0,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:19:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501035",
+                  "name": "Allaman",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.475769,
+                    "y": 6.399696
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                },
+                "arrival": "2022-09-12T13:24:00+0200",
+                "arrivalTimestamp": 1662981840,
+                "departure": "2022-09-12T13:25:00+0200",
+                "departureTimestamp": 1662981900,
+                "delay": 1,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:26:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501118",
+                  "name": "Renens VD",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.537046,
+                    "y": 6.578933
+                  }
+                },
+                "arrival": "2022-09-12T13:31:00+0200",
+                "arrivalTimestamp": 1662982260,
+                "departure": "2022-09-12T13:32:00+0200",
+                "departureTimestamp": 1662982320,
+                "delay": 0,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:32:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501118",
+                  "name": "Renens VD",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.537046,
+                    "y": 6.578933
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                },
+                "arrival": "2022-09-12T13:38:00+0200",
+                "arrivalTimestamp": 1662982680,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": 0,
+                "platform": "3",
+                "prognosis": {
+                  "platform": null,
+                  "departure": null,
+                  "arrival": "2022-09-12T13:38:00+0200",
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                }
+              }
+            ],
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "walk": null,
+          "departure": {
+            "station": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            },
+            "arrival": null,
+            "arrivalTimestamp": null,
+            "departure": "2022-09-12T12:50:00+0200",
+            "departureTimestamp": 1662979800,
+            "delay": 0,
+            "platform": "6",
+            "prognosis": {
+              "platform": null,
+              "departure": "2022-09-12T12:50:00+0200",
+              "arrival": null,
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            }
+          },
+          "arrival": {
+            "station": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            },
+            "arrival": "2022-09-12T13:38:00+0200",
+            "arrivalTimestamp": 1662982680,
+            "departure": null,
+            "departureTimestamp": null,
+            "delay": 0,
+            "platform": "3",
+            "prognosis": {
+              "platform": null,
+              "departure": null,
+              "arrival": "2022-09-12T13:38:00+0200",
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            }
+          }
+        }
+      ],
+      "from": {
+        "station": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2022-09-12T12:50:00+0200",
+        "departureTimestamp": 1662979800,
+        "delay": 0,
+        "platform": "6",
+        "prognosis": {
+          "platform": null,
+          "departure": "2022-09-12T12:50:00+0200",
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        }
+      },
+      "products": [
+        "RE"
+      ]
+    },
+    {
+      "to": {
+        "station": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        },
+        "arrival": "2022-09-12T13:41:00+0200",
+        "arrivalTimestamp": 1662982860,
+        "departure": null,
+        "departureTimestamp": null,
+        "delay": null,
+        "platform": "1",
+        "prognosis": {
+          "platform": null,
+          "departure": null,
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        }
+      },
+      "duration": "00d00:42:00",
+      "service": null,
+      "capacity1st": null,
+      "capacity2nd": null,
+      "sections": [
+        {
+          "journey": {
+            "name": "010523",
+            "category": "IR",
+            "categoryCode": null,
+            "subcategory": null,
+            "number": "15",
+            "operator": "SBB",
+            "to": "Luzern",
+            "passList": [
+              {
+                "station": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2022-09-12T12:59:00+0200",
+                "departureTimestamp": 1662980340,
+                "delay": 0,
+                "platform": "4",
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T12:59:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501030",
+                  "name": "Nyon",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.38443,
+                    "y": 6.235963
+                  }
+                },
+                "arrival": "2022-09-12T13:13:00+0200",
+                "arrivalTimestamp": 1662981180,
+                "departure": "2022-09-12T13:13:00+0200",
+                "departureTimestamp": 1662981180,
+                "delay": 1,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:14:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501030",
+                  "name": "Nyon",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.38443,
+                    "y": 6.235963
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                },
+                "arrival": "2022-09-12T13:30:00+0200",
+                "arrivalTimestamp": 1662982200,
+                "departure": "2022-09-12T13:30:00+0200",
+                "departureTimestamp": 1662982200,
+                "delay": 1,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:31:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                },
+                "arrival": "2022-09-12T13:41:00+0200",
+                "arrivalTimestamp": 1662982860,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": 0,
+                "platform": "1",
+                "prognosis": {
+                  "platform": null,
+                  "departure": null,
+                  "arrival": "2022-09-12T13:41:00+0200",
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                }
+              }
+            ],
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "walk": null,
+          "departure": {
+            "station": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            },
+            "arrival": null,
+            "arrivalTimestamp": null,
+            "departure": "2022-09-12T12:59:00+0200",
+            "departureTimestamp": 1662980340,
+            "delay": 0,
+            "platform": "4",
+            "prognosis": {
+              "platform": null,
+              "departure": "2022-09-12T12:59:00+0200",
+              "arrival": null,
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            }
+          },
+          "arrival": {
+            "station": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            },
+            "arrival": "2022-09-12T13:41:00+0200",
+            "arrivalTimestamp": 1662982860,
+            "departure": null,
+            "departureTimestamp": null,
+            "delay": 0,
+            "platform": "1",
+            "prognosis": {
+              "platform": null,
+              "departure": null,
+              "arrival": "2022-09-12T13:41:00+0200",
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            }
+          }
+        }
+      ],
+      "from": {
+        "station": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2022-09-12T12:59:00+0200",
+        "departureTimestamp": 1662980340,
+        "delay": 0,
+        "platform": "4",
+        "prognosis": {
+          "platform": null,
+          "departure": "2022-09-12T12:59:00+0200",
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        }
+      },
+      "products": [
+        "IR 15"
+      ]
+    },
+    {
+      "to": {
+        "station": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        },
+        "arrival": "2022-09-12T13:47:00+0200",
+        "arrivalTimestamp": 1662983220,
+        "departure": null,
+        "departureTimestamp": null,
+        "delay": null,
+        "platform": "3",
+        "prognosis": {
+          "platform": null,
+          "departure": null,
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        }
+      },
+      "duration": "00d00:36:00",
+      "service": null,
+      "capacity1st": null,
+      "capacity2nd": null,
+      "sections": [
+        {
+          "journey": {
+            "name": "001821",
+            "category": "IR",
+            "categoryCode": null,
+            "subcategory": null,
+            "number": "90",
+            "operator": "SBB",
+            "to": "Brig",
+            "passList": [
+              {
+                "station": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2022-09-12T13:11:00+0200",
+                "departureTimestamp": 1662981060,
+                "delay": 0,
+                "platform": "6",
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:11:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                },
+                "arrival": "2022-09-12T13:47:00+0200",
+                "arrivalTimestamp": 1662983220,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": 0,
+                "platform": "3",
+                "prognosis": {
+                  "platform": null,
+                  "departure": null,
+                  "arrival": "2022-09-12T13:47:00+0200",
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                }
+              }
+            ],
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "walk": null,
+          "departure": {
+            "station": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            },
+            "arrival": null,
+            "arrivalTimestamp": null,
+            "departure": "2022-09-12T13:11:00+0200",
+            "departureTimestamp": 1662981060,
+            "delay": 0,
+            "platform": "6",
+            "prognosis": {
+              "platform": null,
+              "departure": "2022-09-12T13:11:00+0200",
+              "arrival": null,
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            }
+          },
+          "arrival": {
+            "station": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            },
+            "arrival": "2022-09-12T13:47:00+0200",
+            "arrivalTimestamp": 1662983220,
+            "departure": null,
+            "departureTimestamp": null,
+            "delay": 0,
+            "platform": "3",
+            "prognosis": {
+              "platform": null,
+              "departure": null,
+              "arrival": "2022-09-12T13:47:00+0200",
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            }
+          }
+        }
+      ],
+      "from": {
+        "station": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2022-09-12T13:11:00+0200",
+        "departureTimestamp": 1662981060,
+        "delay": 0,
+        "platform": "6",
+        "prognosis": {
+          "platform": null,
+          "departure": "2022-09-12T13:11:00+0200",
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        }
+      },
+      "products": [
+        "IR 90"
+      ]
+    },
+    {
+      "to": {
+        "station": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        },
+        "arrival": "2022-09-12T14:02:00+0200",
+        "arrivalTimestamp": 1662984120,
+        "departure": null,
+        "departureTimestamp": null,
+        "delay": null,
+        "platform": "4",
+        "prognosis": {
+          "platform": null,
+          "departure": null,
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501120",
+          "name": "Lausanne",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.516795,
+            "y": 6.629087
+          }
+        }
+      },
+      "duration": "00d00:47:00",
+      "service": null,
+      "capacity1st": null,
+      "capacity2nd": null,
+      "sections": [
+        {
+          "journey": {
+            "name": "000525",
+            "category": "IC",
+            "categoryCode": null,
+            "subcategory": null,
+            "number": "5",
+            "operator": "SBB",
+            "to": "Rorschach",
+            "passList": [
+              {
+                "station": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2022-09-12T13:15:00+0200",
+                "departureTimestamp": 1662981300,
+                "delay": 0,
+                "platform": "4",
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:15:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501008",
+                  "name": "Genève",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.210228,
+                    "y": 6.142435
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                },
+                "arrival": "2022-09-12T13:41:00+0200",
+                "arrivalTimestamp": 1662982860,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": 0,
+                "platform": "3",
+                "prognosis": {
+                  "platform": null,
+                  "departure": null,
+                  "arrival": "2022-09-12T13:41:00+0200",
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                }
+              }
+            ],
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "walk": null,
+          "departure": {
+            "station": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            },
+            "arrival": null,
+            "arrivalTimestamp": null,
+            "departure": "2022-09-12T13:15:00+0200",
+            "departureTimestamp": 1662981300,
+            "delay": 0,
+            "platform": "4",
+            "prognosis": {
+              "platform": null,
+              "departure": "2022-09-12T13:15:00+0200",
+              "arrival": null,
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501008",
+              "name": "Genève",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.210228,
+                "y": 6.142435
+              }
+            }
+          },
+          "arrival": {
+            "station": {
+              "id": "8501037",
+              "name": "Morges",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.511111,
+                "y": 6.493971
+              }
+            },
+            "arrival": "2022-09-12T13:41:00+0200",
+            "arrivalTimestamp": 1662982860,
+            "departure": null,
+            "departureTimestamp": null,
+            "delay": 0,
+            "platform": "3",
+            "prognosis": {
+              "platform": null,
+              "departure": null,
+              "arrival": "2022-09-12T13:41:00+0200",
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501037",
+              "name": "Morges",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.511111,
+                "y": 6.493971
+              }
+            }
+          }
+        },
+        {
+          "journey": {
+            "name": "024447",
+            "category": "S",
+            "categoryCode": null,
+            "subcategory": null,
+            "number": "4",
+            "operator": "SBB",
+            "to": "Lausanne",
+            "passList": [
+              {
+                "station": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                },
+                "arrival": "2022-09-12T13:41:00+0200",
+                "arrivalTimestamp": 1662982860,
+                "departure": "2022-09-12T13:46:00+0200",
+                "departureTimestamp": 1662983160,
+                "delay": 0,
+                "platform": "3",
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:46:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501037",
+                  "name": "Morges",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.511111,
+                    "y": 6.493971
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501118",
+                  "name": "Renens VD",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.537046,
+                    "y": 6.578933
+                  }
+                },
+                "arrival": "2022-09-12T13:52:00+0200",
+                "arrivalTimestamp": 1662983520,
+                "departure": "2022-09-12T13:55:00+0200",
+                "departureTimestamp": 1662983700,
+                "delay": 0,
+                "platform": null,
+                "prognosis": {
+                  "platform": null,
+                  "departure": "2022-09-12T13:55:00+0200",
+                  "arrival": null,
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501118",
+                  "name": "Renens VD",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.537046,
+                    "y": 6.578933
+                  }
+                }
+              },
+              {
+                "station": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                },
+                "arrival": "2022-09-12T14:02:00+0200",
+                "arrivalTimestamp": 1662984120,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": 0,
+                "platform": "4",
+                "prognosis": {
+                  "platform": null,
+                  "departure": null,
+                  "arrival": "2022-09-12T14:02:00+0200",
+                  "capacity1st": null,
+                  "capacity2nd": null
+                },
+                "location": {
+                  "id": "8501120",
+                  "name": "Lausanne",
+                  "score": null,
+                  "distance": null,
+                  "coordinate": {
+                    "type": "WGS84",
+                    "x": 46.516795,
+                    "y": 6.629087
+                  }
+                }
+              }
+            ],
+            "capacity1st": null,
+            "capacity2nd": null
+          },
+          "walk": null,
+          "departure": {
+            "station": {
+              "id": "8501037",
+              "name": "Morges",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.511111,
+                "y": 6.493971
+              }
+            },
+            "arrival": "2022-09-12T13:41:00+0200",
+            "arrivalTimestamp": 1662982860,
+            "departure": "2022-09-12T13:46:00+0200",
+            "departureTimestamp": 1662983160,
+            "delay": 0,
+            "platform": "3",
+            "prognosis": {
+              "platform": null,
+              "departure": "2022-09-12T13:46:00+0200",
+              "arrival": null,
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501037",
+              "name": "Morges",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.511111,
+                "y": 6.493971
+              }
+            }
+          },
+          "arrival": {
+            "station": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            },
+            "arrival": "2022-09-12T14:02:00+0200",
+            "arrivalTimestamp": 1662984120,
+            "departure": null,
+            "departureTimestamp": null,
+            "delay": 0,
+            "platform": "4",
+            "prognosis": {
+              "platform": null,
+              "departure": null,
+              "arrival": "2022-09-12T14:02:00+0200",
+              "capacity1st": null,
+              "capacity2nd": null
+            },
+            "location": {
+              "id": "8501120",
+              "name": "Lausanne",
+              "score": null,
+              "distance": null,
+              "coordinate": {
+                "type": "WGS84",
+                "x": 46.516795,
+                "y": 6.629087
+              }
+            }
+          }
+        }
+      ],
+      "from": {
+        "station": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2022-09-12T13:15:00+0200",
+        "departureTimestamp": 1662981300,
+        "delay": 0,
+        "platform": "4",
+        "prognosis": {
+          "platform": null,
+          "departure": "2022-09-12T13:15:00+0200",
+          "arrival": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "location": {
+          "id": "8501008",
+          "name": "Genève",
+          "score": null,
+          "distance": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 46.210228,
+            "y": 6.142435
+          }
+        }
+      },
+      "products": [
+        "IC 5",
+        "S4"
+      ]
+    }
+  ]
+}

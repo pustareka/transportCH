@@ -1,0 +1,12 @@
+spring:
+  freemarker:
+    cache: false
+    template-loader-path: classpath:/templates/
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+
+#logging:
+#  level:
+#    root: debug
+server:
+  port: 8181
